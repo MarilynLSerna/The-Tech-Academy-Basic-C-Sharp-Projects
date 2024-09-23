@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\bin\Debug\net8.0\dailyreport.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\bin\Debug\net8.0\dailyreport.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\bin\Debug\net8.0\dailyreport.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\bin\Debug\net8.0\dailyreport.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\bin\Debug\net8.0\dailyreport.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\refint\dailyreport.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\dailyreport.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\dailyreport\dailyreport\obj\Debug\net8.0\ref\dailyreport.dll

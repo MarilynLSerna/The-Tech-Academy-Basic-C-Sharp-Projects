@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\bin\Debug\net8.0\SampleApplication.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\bin\Debug\net8.0\SampleApplication.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\bin\Debug\net8.0\SampleApplication.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\bin\Debug\net8.0\SampleApplication.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\bin\Debug\net8.0\SampleApplication.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\refint\SampleApplication.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\SampleApplication.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\SampleApplication\obj\Debug\net8.0\ref\SampleApplication.dll

@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\bin\Debug\net8.0\accountingApp.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\bin\Debug\net8.0\accountingApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\bin\Debug\net8.0\accountingApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\bin\Debug\net8.0\accountingApp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\bin\Debug\net8.0\accountingApp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\refint\accountingApp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\accountingApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\accountingApp\accountingApp\obj\Debug\net8.0\ref\accountingApp.dll
