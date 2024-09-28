@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\bin\Debug\net8.0\Package Express Shipping.exe
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\bin\Debug\net8.0\Package Express Shipping.deps.json
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\bin\Debug\net8.0\Package Express Shipping.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\bin\Debug\net8.0\Package Express Shipping.dll
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\bin\Debug\net8.0\Package Express Shipping.pdb
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.dll
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\refint\Package Express Shipping.dll
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.pdb
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\Package Express Shipping.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Package Express Shipping\Package Express Shipping\obj\Debug\net8.0\ref\Package Express Shipping.dll
