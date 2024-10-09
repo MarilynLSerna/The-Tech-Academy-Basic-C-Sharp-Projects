@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\bin\Debug\net8.0\OptionalMethodApp.exe
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\bin\Debug\net8.0\OptionalMethodApp.deps.json
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\bin\Debug\net8.0\OptionalMethodApp.runtimeconfig.json
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\bin\Debug\net8.0\OptionalMethodApp.dll
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\bin\Debug\net8.0\OptionalMethodApp.pdb
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.dll
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\refint\OptionalMethodApp.dll
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.pdb
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\OptionalMethodApp.genruntimeconfig.cache
+C:\Users\Owner\source\repos\OptionalMethodApp\OptionalMethodApp\obj\Debug\net8.0\ref\OptionalMethodApp.dll
