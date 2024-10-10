@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\bin\Debug\net8.0\ClassSubmissionApp.exe
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\bin\Debug\net8.0\ClassSubmissionApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\bin\Debug\net8.0\ClassSubmissionApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\bin\Debug\net8.0\ClassSubmissionApp.dll
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\bin\Debug\net8.0\ClassSubmissionApp.pdb
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.dll
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\refint\ClassSubmissionApp.dll
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.pdb
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ClassSubmissionApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\ClassSubmissionApp\ClassSubmissionApp\obj\Debug\net8.0\ref\ClassSubmissionApp.dll
