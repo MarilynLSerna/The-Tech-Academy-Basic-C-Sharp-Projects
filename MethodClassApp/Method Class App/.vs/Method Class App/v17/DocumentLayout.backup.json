@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Method Class App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F5D920-197D-42B0-AAE4-0D8F99B7B640}|Method Class App\\Method Class App.csproj|c:\\users\\owner\\onedrive\\desktop\\method class app\\method class app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F5D920-197D-42B0-AAE4-0D8F99B7B640}|Method Class App\\Method Class App.csproj|solutionrelative:method class app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F5D920-197D-42B0-AAE4-0D8F99B7B640}|Method Class App\\Method Class App.csproj|c:\\users\\owner\\onedrive\\desktop\\method class app\\method class app\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F5D920-197D-42B0-AAE4-0D8F99B7B640}|Method Class App\\Method Class App.csproj|solutionrelative:method class app\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\Method Class App\\Method Class App\\Method.cs",
+              "RelativeDocumentMoniker": "Method Class App\\Method.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\Method Class App\\Method Class App\\Method.cs*",
+              "RelativeToolTip": "Method Class App\\Method.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:21:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\Method Class App\\Method Class App\\Program.cs",
+              "RelativeDocumentMoniker": "Method Class App\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\Method Class App\\Method Class App\\Program.cs*",
+              "RelativeToolTip": "Method Class App\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:20:23.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

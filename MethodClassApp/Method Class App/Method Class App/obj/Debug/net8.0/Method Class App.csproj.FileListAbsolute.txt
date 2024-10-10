@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\bin\Debug\net8.0\Method Class App.exe
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\bin\Debug\net8.0\Method Class App.deps.json
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\bin\Debug\net8.0\Method Class App.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\bin\Debug\net8.0\Method Class App.dll
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\bin\Debug\net8.0\Method Class App.pdb
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.dll
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\refint\Method Class App.dll
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.pdb
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\Method Class App.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Method Class App\Method Class App\obj\Debug\net8.0\ref\Method Class App.dll
