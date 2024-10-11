@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|c:\\users\\owner\\source\\repos\\methods and objects app\\methods and objects app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|solutionrelative:methods and objects app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|c:\\users\\owner\\source\\repos\\methods and objects app\\methods and objects app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|solutionrelative:methods and objects app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|c:\\users\\owner\\source\\repos\\methods and objects app\\methods and objects app\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E842814-EA42-4B54-9A82-35B52F7BECB9}|Methods And Objects App\\Methods And Objects App.csproj|solutionrelative:methods and objects app\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Employee.cs",
+              "RelativeDocumentMoniker": "Methods And Objects App\\Employee.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Employee.cs",
+              "RelativeToolTip": "Methods And Objects App\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:33:50.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Person.cs",
+              "RelativeDocumentMoniker": "Methods And Objects App\\Person.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Person.cs",
+              "RelativeToolTip": "Methods And Objects App\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:33:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Program.cs",
+              "RelativeDocumentMoniker": "Methods And Objects App\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Methods And Objects App\\Methods And Objects App\\Program.cs",
+              "RelativeToolTip": "Methods And Objects App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:32:16.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

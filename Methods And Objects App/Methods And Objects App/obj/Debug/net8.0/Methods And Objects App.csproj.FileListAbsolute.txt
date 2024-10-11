@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\bin\Debug\net8.0\Methods And Objects App.exe
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\bin\Debug\net8.0\Methods And Objects App.deps.json
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\bin\Debug\net8.0\Methods And Objects App.runtimeconfig.json
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\bin\Debug\net8.0\Methods And Objects App.dll
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\bin\Debug\net8.0\Methods And Objects App.pdb
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.dll
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\refint\Methods And Objects App.dll
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.pdb
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\Methods And Objects App.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Methods And Objects App\Methods And Objects App\obj\Debug\net8.0\ref\Methods And Objects App.dll
