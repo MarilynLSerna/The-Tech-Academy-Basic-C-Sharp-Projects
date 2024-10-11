@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\bin\Debug\net8.0\AbstractClassApp.exe
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\bin\Debug\net8.0\AbstractClassApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\bin\Debug\net8.0\AbstractClassApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\bin\Debug\net8.0\AbstractClassApp.dll
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\bin\Debug\net8.0\AbstractClassApp.pdb
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.dll
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\refint\AbstractClassApp.dll
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.pdb
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\AbstractClassApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\AbstractClassApp\AbstractClassApp\obj\Debug\net8.0\ref\AbstractClassApp.dll
