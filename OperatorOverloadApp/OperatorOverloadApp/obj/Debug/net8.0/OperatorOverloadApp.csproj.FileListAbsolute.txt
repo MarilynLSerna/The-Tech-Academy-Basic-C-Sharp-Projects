@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\bin\Debug\net8.0\OperatorOverloadApp.exe
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\bin\Debug\net8.0\OperatorOverloadApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\bin\Debug\net8.0\OperatorOverloadApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\bin\Debug\net8.0\OperatorOverloadApp.dll
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\bin\Debug\net8.0\OperatorOverloadApp.pdb
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.dll
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\refint\OperatorOverloadApp.dll
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.pdb
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\OperatorOverloadApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\OperatorOverloadApp\OperatorOverloadApp\obj\Debug\net8.0\ref\OperatorOverloadApp.dll
