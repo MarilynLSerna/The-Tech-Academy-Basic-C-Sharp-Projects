@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\bin\Debug\net8.0\DaysOfWeekParser.exe
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\bin\Debug\net8.0\DaysOfWeekParser.deps.json
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\bin\Debug\net8.0\DaysOfWeekParser.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\bin\Debug\net8.0\DaysOfWeekParser.dll
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\bin\Debug\net8.0\DaysOfWeekParser.pdb
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.dll
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\refint\DaysOfWeekParser.dll
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.pdb
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\DaysOfWeekParser.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\DaysOfWeekParser\DaysOfWeekParser\obj\Debug\net8.0\ref\DaysOfWeekParser.dll
