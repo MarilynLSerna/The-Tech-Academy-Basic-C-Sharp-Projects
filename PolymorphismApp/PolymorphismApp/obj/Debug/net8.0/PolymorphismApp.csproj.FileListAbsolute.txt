@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.exe
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.dll
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.pdb
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.dll
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\refint\PolymorphismApp.dll
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.pdb
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\PolymorphismApp\PolymorphismApp\obj\Debug\net8.0\ref\PolymorphismApp.dll
