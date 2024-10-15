@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\bin\Debug\net8.0\LambdaEmployeeApp.exe
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\bin\Debug\net8.0\LambdaEmployeeApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\bin\Debug\net8.0\LambdaEmployeeApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\bin\Debug\net8.0\LambdaEmployeeApp.dll
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\bin\Debug\net8.0\LambdaEmployeeApp.pdb
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.dll
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\refint\LambdaEmployeeApp.dll
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.pdb
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\LambdaEmployeeApp.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\LambdaEmployeeApp\LambdaEmployeeApp\obj\Debug\net8.0\ref\LambdaEmployeeApp.dll
