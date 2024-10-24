@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\bin\Debug\net8.0\ChainedConstructorApp.exe
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\bin\Debug\net8.0\ChainedConstructorApp.deps.json
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\bin\Debug\net8.0\ChainedConstructorApp.runtimeconfig.json
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\bin\Debug\net8.0\ChainedConstructorApp.dll
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\bin\Debug\net8.0\ChainedConstructorApp.pdb
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.dll
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\refint\ChainedConstructorApp.dll
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.pdb
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ChainedConstructorApp.genruntimeconfig.cache
+C:\Users\Owner\source\repos\ChainedConstructorApp\ChainedConstructorApp\obj\Debug\net8.0\ref\ChainedConstructorApp.dll
