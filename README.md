@@ -2,14 +2,14 @@
 
 These are some small projects I created using C# and .NET Framework.
 
----
+
 
 ## Projects:
 
 - [CarInsurance](#car-insurance)
 - [StudentDatabase](#student-database)
 
----
+
 
 ## Car Insurance
 
@@ -25,7 +25,7 @@ This project is an MVC web application that mimics a car insurance website. It t
 - Entity Framework Core
 - SQL Server (LocalDB)
 
----
+
 
 ## Student Database
 
